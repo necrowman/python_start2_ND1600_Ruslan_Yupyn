@@ -1,0 +1,2 @@
+# python_start2_ND1600_Ruslan_Yupyn
+Тестове використання Git
